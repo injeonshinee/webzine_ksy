@@ -110,7 +110,7 @@ hr {
 .link-box-1 {
   font-size: 1.6em;
   font-family: 'HSBombaram21-Regular';
-  background-image: url("./images/paper-1.png");
+  background-image: url("./images/paper.png");
   width: 180px;
   height: 220px;
   background-size: contain;
@@ -122,7 +122,7 @@ hr {
 .link-box-2 {
   font-size: 1.6em;
   font-family: 'HSBombaram21-Regular';
-  background-image: url("./images/paper-2.png");
+  background-image: url("./images/paper.png");
   width: 180px;
   height: 220px;
   background-size: contain;
