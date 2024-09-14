@@ -52,6 +52,7 @@ body {
     align-items: center;
     text-align: center;
     background-attachment: fixed;
+    background-position: center;
 }
 
 .intro-logo {
